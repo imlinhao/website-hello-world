@@ -1,6 +1,6 @@
 ## 个人网站搭建系列: Spring Boot Hello World
 ### 小插曲
-本系列文章，持续更新，关注浩的个人网站<http://imlinhao.cfapps.io/>，以及文章导引页 <http://blog.csdn.net/jksl007/article/details/44183559>
+本系列文章，持续更新，关注浩的个人网站<http://linhao.cfapps.io/>
 
 ### 基础准备
 #### 开发环境及工具
